@@ -25,7 +25,7 @@ I'm an Informatics student at Universitas Sultan Ageng Tirtayasa with a strong i
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📊 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DimasSetiawan&show_icons=true&theme=tokyonight)](https://github.com/DimasSetiawan)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=setiawandimas838-gif&show_icons=true&theme=tokyonight)](https://github.com/setiawandimas838-gif)
 
 ## ☠️ Cyber Quote
 > "Security is not a product, but a process."
