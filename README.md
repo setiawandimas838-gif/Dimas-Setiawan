@@ -1,5 +1,5 @@
 # Dimas-Setiawan
-# < Hello World /> 👾
+# < Hello There /> 👾
 
 ## 🛡️ About Me
 I'm an Informatics student at Universitas Sultan Ageng Tirtayasa with a strong interest in Cyber Security, Ethical Hacking, and Network Technology.
@@ -25,7 +25,7 @@ I'm an Informatics student at Universitas Sultan Ageng Tirtayasa with a strong i
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DimasSetiawan
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DimasSetiawan&show_icons=true&theme=tokyonight)](https://github.com/DimasSetiawan)
 
 ## ☠️ Cyber Quote
 > "Security is not a product, but a process."
